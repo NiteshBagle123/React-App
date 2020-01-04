@@ -56,7 +56,7 @@ class Contest extends Component {
         </div>
 
         <div className="home-link link"
-          onClick={this.props.contestListClick}>x
+          onClick={this.props.contestListClick}>
           Contest List
         </div>
       </div>
